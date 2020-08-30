@@ -7,7 +7,10 @@ be hard to make changes*/
 }
 
 #main {
-  position: relative;
+
+    position: relative;
+    padding: 0px;
+
 }
 
 #main .carousel-inner img {
@@ -20,7 +23,9 @@ be hard to make changes*/
 }
 
 #carousel .carousel-item img {
-  opacity: 0.8;
+opacity: 0.8;
+padding: 0px;
+
 }
 #carousel .carousel-item img:hover {
   opacity: 1;
