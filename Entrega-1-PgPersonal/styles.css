@@ -40,19 +40,19 @@ padding: 0px;
   font-family: "Montserrat", sans-serif;
 }
 
-#Personal .container .iconos {
+#personal .container .iconos {
   display: flex;
   justify-content: center;
 }
 
-#Personal .container .iconos img {
+#personal .container .iconos img {
   margin-top: 10px;
   margin-right: 10px;
   object-fit: cover;
   height: 40px;
 }
 
-#Personal .container .card .card-body .card-text {
+#personal .container .card .card-body .card-text {
   color: black;
 }
 
@@ -87,24 +87,24 @@ padding: 0px;
   max-height: 150px;
 }
 
-#Interests .row .card {
+#interests .row .card {
   height: 100%;
   align-items: center;
   width: 100%;
 }
 
-#Interests .container .card iframe,
+#interests .container .card iframe,
 img {
   padding: 5px;
 }
 
-#Academic .row .card {
+#academic .row .card {
   width: 100%;
   align-items: center;
   height: 100%;
 }
 
-#Academic .card .card-body .card-header img {
+#academic .card .card-body .card-header img {
   max-height: 100%;
   max-width: 100%;
   size: 10px;
